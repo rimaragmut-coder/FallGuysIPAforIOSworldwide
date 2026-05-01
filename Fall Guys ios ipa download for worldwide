@@ -1,0 +1,15 @@
+{
+  "name": "Community Fall Guys Repo",
+  "identifier": "com.community.fallguys",
+  "apps": [
+    {
+      "name": "Fall Guys",
+      "bundleIdentifier": "com.epicgames.fallguys",
+      "version": "21.1.1",
+      "downloadURL": "PASTE_YOUR_GOOGLE_DRIVE_DIRECT_LINK_HERE",
+      "iconURL": "https://example.com/icon.png",
+      "developerName": "Epic Games",
+      "localizedDescription": "Fall Guys for iOS - Worldwide Access."
+    }
+  ]
+}
